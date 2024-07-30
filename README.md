@@ -109,6 +109,6 @@ To remediate, I uninstalled the old version of Firefox and ran Windows updates: 
 <br />
 <br />
 I ran the Nessus scan one more time and verified the critical vulnerabilities had been remediated:  <br/>
-<img src="https://github.com/ZakJaeb/Nessus-Vuln-Manage/assets/156c01f2-4c1d-438a-9e17-b57edcda28fd" height="80%" width="80%" alt="Nessus scan remediation"/>
+<img src="https://github.com/ZakJaeb/Nessus-Vuln-Manage/assets/58833790/156c01f2-4c1d-438a-9e17-b57edcda28fd" height="80%" width="80%" alt="Nessus scan remediation"/>
 <br />
 <br />
