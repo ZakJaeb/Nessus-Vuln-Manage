@@ -7,9 +7,9 @@ In this lab I setup Nessus essentials to scan a vulnerable Windows 10 VM with ou
 <br/><br/>
 I first ran a scan of the freshly installed version of Windows 10 22H2. Nessus found many vulnerabilities with stock software and Windows updates as the OS had not run Windows update yet.
 <br/><br/>
-After determining my baseline, I then ran a credentialed scan using the administrator credentials I setup initially. Nessus was able to find many more high and critical vulnerabilities after this scan.
+After determining my baseline, I then ran a credentialed scan using the administrator credentials I setup initially. Nessus was able to find many more high and critical vulnerabilities after this scan. Mostly with stock software and updates as the OS had not run Windows update yet.
 <br/><br/>
-To add to the fire I installed a very outdated version of Mozilla Firefox and ran the Nessus scan once again.
+To add to the fire I installed a very outdated version of Mozilla Firefox 3.6.12 and ran the Nessus scan once again.
 <br/><br/>
 After viewing all of the vulnerabilities that Firefox introduced, I then began the process of remediation by completely uninstalling Firefox 3.6.12 and running Windows Update.
 <br/><br/>
