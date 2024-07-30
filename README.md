@@ -32,8 +32,31 @@ Thanks to Josh Madakor for the awesome lab project: https://www.youtube.com/watc
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Setup new resource group for lab: <br/>
-<img src="https://github.com/ZakJaeb/SOC-Honeynet-Azure/assets/58833790/e3e0702e-1635-4e62-aa86-3cf8cffbf22d" height="80%" width="80%" alt="Resource Group"/>
+Download Windows 10 ISO from Microsoft: <br/>
+<img src="https://github.com/ZakJaeb/Nessus-Vuln-Manage/assets/58833790/e28e0618-7907-42f0-b182-25c5f6b0b862" height="80%" width="80%" alt="Windows 10 Download"/>
 <br />
 <br />
-Deploy the Windows 10 Virtual Machine:  <br/>
+Download and install Tenable Nessus:  <br/>
+<img src="https://github.com/ZakJaeb/Nessus-Vuln-Manage/assets/58833790/9a771996-0eee-40f5-a6de-5d75aa7157d1" height="80%" width="80%" alt="Tenable Nessus Download"/>
+<br />
+<br />
+Activate Nessus Essentials with code sent to email:  <br/>
+<img src="https://github.com/ZakJaeb/Nessus-Vuln-Manage/assets/58833790/dcfa2f11-7636-4729-b17b-ee1284cf83b9" height="80%" width="80%" alt="Nessus Essentials Activation"/>
+<br />
+<br />
+Initial setup of Windows 10 VM within VMWare Workstation Player:  <br/>
+<img src="https://github.com/ZakJaeb/Nessus-Vuln-Manage/assets/58833790/c13efe8a-7cf2-481c-9081-1266cb4fdb9d" height="80%" width="80%" alt="Windows 10 setup"/>
+<br />
+<br />
+Disable Windows Firewall to be able to ping the VM from local machine:  <br/>
+<img src="https://github.com/ZakJaeb/Nessus-Vuln-Manage/assets/58833790/df4941c7-6345-48a0-a3e4-03c6d421c957" height="80%" width="80%" alt="Disable Windows Firewall"/>
+<br />
+<br />
+Test ping from local machine to VM:  <br/>
+<img src="https://github.com/ZakJaeb/Nessus-Vuln-Manage/assets/58833790/16a1f1d5-bfef-4b30-9878-1f5d8adbea08" height="80%" width="80%" alt="Test Ping"/>
+<br />
+<br />
+Setup basic network scan within Nessus targeting the IP of the VM:  <br/>
+<img src="https://github.com/ZakJaeb/Nessus-Vuln-Manage/assets/58833790/0bd12d38-070e-4fe0-83ef-2078143ae627" height="80%" width="80%" alt="Basic network scan"/>
+<br />
+<br />
