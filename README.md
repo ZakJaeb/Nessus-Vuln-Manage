@@ -1,5 +1,3 @@
-# Nessus-Vuln-Manage
-
 <h1>Nessus Vulnerability Management Lab</h1>
 
 <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) -->
