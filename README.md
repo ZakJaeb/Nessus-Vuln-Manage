@@ -1,4 +1,4 @@
-<h1>Nessus Vulnerability Management Lab</h1>
+<h1>Tenable Nessus Vulnerability Management Lab</h1>
 
 <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) -->
 
